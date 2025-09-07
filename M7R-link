@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>M7R Links</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #141e30, #243b55);
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+      color: white;
+    }
+    .profile {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    .profile img {
+      width: 180px;
+      height: 180px;
+      border-radius: 50%;
+      border: 3px solid white;
+      object-fit: cover;
+    }
+    h2 {
+      margin: 15px 0 5px;
+    }
+    p {
+      margin: 0 0 20px;
+    }
+    .links {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+      width: 260px;
+    }
+    .links a {
+      text-decoration: none;
+      padding: 12px;
+      background: white;
+      color: #243b55;
+      border-radius: 10px;
+      text-align: center;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+    .links a:hover {
+      background: #ffcc00;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+  <div class="profile">
+    <img src="https://i.ibb.co/0FfR6XZ/m7r.jpg" alt="M7R">
+    <h2>مرحبا بكم في موقع M7R</h2>
+    <p>منورين الماب الأختصار M7R</p>
+  </div>  <div class="links">
+    <a href="https://vt.tiktok.com/ZSATj6WxU/" target="_blank">TikTok</a>
+    <a href="https://www.instagram.com/party_m7r?igsh=MW1rYmRieWR2cjdlMQ==" target="_blank">Instagram</a>
+    <a href="https://discord.gg/EeC9Kf8T" target="_blank">Discord</a>
+  </div>
+</body>
+</html>
